@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Luma atelier </title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style1.css">
 </head>
 <body>
 
@@ -12,7 +12,7 @@
     <img src="images/herobanner.png" alt="Furniture">
 
 
-<nav class="links" >
+ <nav class="links" >
 
 <div id="left">
         <span>  LUMA ATELIER </span>
@@ -44,7 +44,9 @@
     <div class="hero-text">
         <h1>Make Your Home Beautiful</h1>
         <p>Discover our collection of modern furniture.</p>
-        <button> EXPLORE COLLECTION ⟶ </button>
+        <br>
+        
+       <a href="collection.php" > EXPLORE COLLECTION ⟶ </a> 
     </div>
 </div>
 </nav>

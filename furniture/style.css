@@ -56,7 +56,7 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     position: absolute;
     top: 5%;
-    font-size : 28px;
+    font-size : 28%;
     left: 4%;
       
 
@@ -154,4 +154,13 @@
 
     transition: 0.5s;
 
+}
+
+#left1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #7e5b37;
+    font-family: 33%;
+    left: 4%;
+    top: 5%;
+    position: absolute;
 }
